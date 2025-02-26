@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://www.andrew-chang.me/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://www.andrew-chang.me/sitemap.xml
