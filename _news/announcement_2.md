@@ -13,5 +13,4 @@ Microsoft Azure provides administrators with controls to limit the actions a pri
 3. Attach an administrative managed identity to an existing Azure VM and execute commands in that VM
 4. Create a new Azure VM, attach an administrative managed identity to it, and execute commands in that VM by using data plane actions
 
-
 Read more [here](https://www.praetorian.com/blog/azure-rbac-privilege-escalations-azure-vm/)
