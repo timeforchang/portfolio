@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
@@ -36,20 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "dropdown-publications",
               title: "publications",
@@ -84,7 +63,7 @@ ninja.data = [{
           title: 'Why Azure B2C ROPC Custom Flows Are Inherently Insecure',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
+              window.location.href = "/news/azure_ropc_custom_flows/";
             },},{id: "news-re-certified-for-the-google-cloud-professional-cloud-security-engineer-certification-certification",
           title: 'Re-certified for the Google Cloud Professional Cloud Security Engineer Certification certification',
           description: "",
@@ -98,7 +77,7 @@ ninja.data = [{
           title: 'Azure RBAC Privilege Escalations - Azure VM',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/azure_vm_privesc/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
