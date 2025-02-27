@@ -2,28 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Lead Cloud Security Engineer at <a href='https://www.praetorian.com/'>Praetorian</a> | OSCP, OSWP
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Chicago, IL 60605</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+publications: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-announcements:
+news:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit: # leave blank to include all the news in the `_news` folder
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am Andrew Chang.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Lead Cloud Security Engineer at [Praetorian](https://www.praetorian.com/). I am focused on **leading penetration tests and configuration reviews against cloud environments and applications** for external clients. As a result of these engagements, I **deliver strategic recommentations to improve the security posture** of my clients' digital infrastructure and assets.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As a security professional, I strongly believe that open collaboration can improve the security of our digital lives. As such, I am enthusiastic about contributing to the cybersecurity community. I leverage my strong track record in **cloud security architecture**, **identity and access management (IAM)**, and **offensive security** to **develop cutting-edge tools and methodologies** to assess cloud and IAM configurations. 
+
+Prior to my time at Praetorian, I was a Security Consulting Engineer at [Cisco](https://www.cisco.com/) where I also performed offensive security engagements for external clients. I have also completed my Bachelor's and Master's degrees in Computer Science at the Georgia Institute of Technology.
