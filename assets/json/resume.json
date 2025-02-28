@@ -50,7 +50,7 @@
       ]
     }
   ],
-  "experience": [
+  "work": [
     {
       "name": "Praetorian Security, Inc.",
       "position": "Lead Cloud Security Engineer",
@@ -88,6 +88,17 @@
       "highlights": [
         "Developed labs and exams for brand new CS 6264 – System and Network Defenses online graduate course for the top ranked cybersecurity program in the country.",
         "Labs included: binary exploitation, end-point security with kernel hooks, and Android WebView phishing attacks."
+      ]
+    },
+    {
+      "name": "Georgia Institute of Technology – Institute for Information Privacy and Security",
+      "position": "Graduate Research Assistant",
+      "url": "https://scp.cc.gatech.edu/",
+      "startDate": "2019-08",
+      "endDate": "2020-05",
+      "summary": "Research assistant for Dr. Wenke Lee's GTISC lab (now the Georgia Tech School of Cybersecurity and Privacy)",
+      "highlights": [
+        "Developed a browser-based auditing approach for watering hole-based cyber-attacks by overcoming limitations relating to recording necessary semantic information instead of just viewing system calls"
       ]
     },
     {
@@ -199,7 +210,7 @@
       "summary": "Contributed to research in the detection and investigation of watering-hole attacks against frequently-visited websites. The forensic analysis engine developed as part of this research was a lightweight browser-modification-free auditing daemon that reduced the amount of manual analysis required by the forensic analyst by about 98%."
     }
   ],
-  "involvements": [
+  "volunteer": [
     {
       "organization": "DSA National Tech Committee",
       "location": "Chicago, IL",
@@ -223,17 +234,6 @@
       "startDate": "Fall 2022",
       "summary": "Operated a cryptography workshop for a children's ethical hacking conference.",
       "highlights": ["Led workshop during the conference", "Developed worksheets to teach basic cryptography concepts to children ages K-12"]
-    },
-    {
-      "organization": "Georgia Institute of Technology – Institute of Privacy and Security",
-      "location": "Atlanta, GA",
-      "position": "Graduate Research Assistant",
-      "url": "https://scp.cc.gatech.edu/",
-      "startDate": "Fall 2020",
-      "summary": "Research assistant for Dr. Wenke Lee's GTISC lab (now the Georgia Tech School of Cybersecurity and Privacy)",
-      "highlights": [
-        "Developed a browser-based auditing approach for watering hole-based cyber-attacks by overcoming limitations relating to recording necessary semantic information instead of just viewing system calls"
-      ]
     }
   ],
   "skills": [

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lead Cloud Security Engineer at <a href='https://www.praetorian.com/'>Praetorian</a> | OSCP, OSWP
+subtitle: Cybersecurity Professional | OSCP, OSWP
 
 profile:
   align: right
@@ -16,8 +16,8 @@ social: true # includes social icons at the bottom of the page
 
 news:
   enabled: true # includes a list of news items
-  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
-  limit: # leave blank to include all the news in the `_news` folder
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 10 # leave blank to include all the news in the `_news` folder
 ---
 
 Hello! I am Andrew Chang.
