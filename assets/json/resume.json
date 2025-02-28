@@ -129,7 +129,7 @@
       "url": "https://github.com/timeforchang/azurehound-scenttrail"
     }
   ],
-  "certifications": [
+  "certificates": [
     {
       "name": "Certified AWS Cloud Red Team Specialist",
       "date": "2024-10",
@@ -231,8 +231,9 @@
       "location": "Chicago, IL",
       "position": "Crypto Village Volunteer",
       "url": "https://www.hak4kidz.com/",
-      "date": "Fall 2022",
-      "summary": "Operated a cryptography workshop for a children's ethical hacking conference.",
+      "startDate": "2022-08",
+      "endDate": "2022-09",
+      "summary": "Held a cryptography workshop for a children's ethical hacking conference.",
       "highlights": ["Led workshop during the conference", "Developed worksheets to teach basic cryptography concepts to children ages K-12"]
     }
   ],
