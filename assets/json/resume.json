@@ -115,7 +115,7 @@
     {
       "name": "AzureHound",
       "summary": "Extension to existing AzureHound project to enumerate Azure subscription RBAC roles, RBAC role assignments, and service principal assignments. Written in Go, ~4k LoC.",
-      "highlights": ["Microsoft Entra ID", "Microsoft Azure", "Identity and Access Management (IAM)", "Go"],
+      "highlights": [],
       "startDate": "2025-01",
       "endDate": "",
       "url": "https://github.com/timeforchang/AzureHound"
@@ -123,7 +123,7 @@
     {
       "name": "ScentTrail",
       "summary": "Command-line utility to extend an existing Bloodhound Neo4j graph database to identify vertical privilege escalation based on Azure RBAC permissions. Written in Python and Neo4j, ~1k LoC.",
-      "highlights": ["Microsoft Entra ID", "Microsoft Azure", "Identity and Access Management (IAM)", "Python", "Neo4j"],
+      "highlights": [],
       "startDate": "2025-01",
       "endDate": "",
       "url": "https://github.com/timeforchang/azurehound-scenttrail"
@@ -231,8 +231,7 @@
       "location": "Chicago, IL",
       "position": "Crypto Village Volunteer",
       "url": "https://www.hak4kidz.com/",
-      "startDate": "Fall 2022",
-      "endDate": "Fall 2022",
+      "date": "Fall 2022",
       "summary": "Operated a cryptography workshop for a children's ethical hacking conference.",
       "highlights": ["Led workshop during the conference", "Developed worksheets to teach basic cryptography concepts to children ages K-12"]
     }
