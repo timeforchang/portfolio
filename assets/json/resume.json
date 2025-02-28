@@ -258,9 +258,7 @@
       "name": "Cloud",
       "level": "Master",
       "icon": "fa-solid fa-cloud",
-      "keywords": [
-        "Microsoft Azure", "Microsoft Entra ID", "Amazon Web Services", "Google Cloud Platform", "Docker", "Kubernetes"
-      ]
+      "keywords": ["Microsoft Azure", "Microsoft Entra ID", "Amazon Web Services", "Google Cloud Platform", "Docker", "Kubernetes"]
     },
     {
       "name": "Programming Languages",
