@@ -42,7 +42,12 @@
       "startDate": "2016",
       "endDate": "2019",
       "score": "3.9",
-      "courses": ["Graduated with Highest Honors", "Specialization in Systems and Architecture and Information Internetworks", "Concentration in International Affairs", "RoboJackets Robot Sumo Team Software Lead"]
+      "courses": [
+        "Graduated with Highest Honors",
+        "Specialization in Systems and Architecture and Information Internetworks",
+        "Concentration in International Affairs",
+        "RoboJackets Robot Sumo Team Software Lead"
+      ]
     }
   ],
   "experience": [
@@ -53,7 +58,13 @@
       "startDate": "2023-01",
       "endDate": "",
       "summary": "",
-      "highlights": ["Leading penetration tests and configuration reviews against cloud environments and applications for external clients; 3,500+ billable hours and >10 critical/high findings", "Delivering strategic recommendations to key stakeholders regarding the security posture of their digital infrastructure and assets; >9.5 Net Promoter Score.", "Developing new methodology and tools to assess cloud and IAM configurations.", "Supporting sales discovery calls as a subject matter expert.", "Providing guidance for junior engineers to solidify their offensive security foundations."]
+      "highlights": [
+        "Leading penetration tests and configuration reviews against cloud environments and applications for external clients; 3,500+ billable hours and >10 critical/high findings",
+        "Delivering strategic recommendations to key stakeholders regarding the security posture of their digital infrastructure and assets; >9.5 Net Promoter Score.",
+        "Developing new methodology and tools to assess cloud and IAM configurations.",
+        "Supporting sales discovery calls as a subject matter expert.",
+        "Providing guidance for junior engineers to solidify their offensive security foundations."
+      ]
     },
     {
       "name": "Cisco Systems, Inc.",
@@ -62,7 +73,10 @@
       "startDate": "2022-12",
       "endDate": "2019-05",
       "summary": "",
-      "highlights": ["Performed offensive security engagements for external clients; 4,500+ billable hours.", "Developed and maintained Python framework to automate triage of vulnerability scanner alerts in backbone network fabric for Fortune 15 information technology company. ~30k LoC."]
+      "highlights": [
+        "Performed offensive security engagements for external clients; 4,500+ billable hours.",
+        "Developed and maintained Python framework to automate triage of vulnerability scanner alerts in backbone network fabric for Fortune 15 information technology company. ~30k LoC."
+      ]
     },
     {
       "name": "Georgia Institute of Technology - Institute of Security and Privacy",
@@ -71,7 +85,10 @@
       "startDate": "2020-01",
       "endDate": "2021-05",
       "summary": "",
-      "highlights": ["Developed labs and exams for brand new CS 6264 – System and Network Defenses online graduate course for the top ranked cybersecurity program in the country.", "Labs included: binary exploitation, end-point security with kernel hooks, and Android WebView phishing attacks."]
+      "highlights": [
+        "Developed labs and exams for brand new CS 6264 – System and Network Defenses online graduate course for the top ranked cybersecurity program in the country.",
+        "Labs included: binary exploitation, end-point security with kernel hooks, and Android WebView phishing attacks."
+      ]
     },
     {
       "name": "Georgia Institute of Technology - Office of Information Technology",
@@ -191,7 +208,12 @@
       "startDate": "2022",
       "endDate": "",
       "summary": "Steering Committee member responsible for communications to the NTC membership.",
-      "highlights": ["Creating monthly newsletters", "Leading onboarding meetings to generate interest in the NTC", "Developing pilot for open-source membership management solution", "Contributed to dues payments website development"]
+      "highlights": [
+        "Creating monthly newsletters",
+        "Leading onboarding meetings to generate interest in the NTC",
+        "Developing pilot for open-source membership management solution",
+        "Contributed to dues payments website development"
+      ]
     },
     {
       "organization": "Hak4Kidz",
@@ -209,7 +231,9 @@
       "url": "https://scp.cc.gatech.edu/",
       "startDate": "Fall 2020",
       "summary": "Research assistant for Dr. Wenke Lee's GTISC lab (now the Georgia Tech School of Cybersecurity and Privacy)",
-      "highlights": ["Developed a browser-based auditing approach for watering hole-based cyber-attacks by overcoming limitations relating to recording necessary semantic information instead of just viewing system calls"]
+      "highlights": [
+        "Developed a browser-based auditing approach for watering hole-based cyber-attacks by overcoming limitations relating to recording necessary semantic information instead of just viewing system calls"
+      ]
     }
   ],
   "skills": [
@@ -235,12 +259,7 @@
       "level": "Master",
       "icon": "fa-solid fa-cloud",
       "keywords": [
-        "Microsoft Azure",
-        "Microsoft Entra ID",
-        "Amazon Web Services",
-        "Google Cloud Platform",
-        "Docker",
-        "Kubernetes"
+        "Microsoft Azure", "Microsoft Entra ID", "Amazon Web Services", "Google Cloud Platform", "Docker", "Kubernetes"
       ]
     },
     {
@@ -290,27 +309,27 @@
   "interests": [
     {
       "name": "Archery",
-      "icon": "fa-solid fa-bullseye",
+      "icon": "fa-solid fa-bullseye"
     },
     {
       "name": "Biking",
-      "icon": "fa-solid fa-bicycle",
+      "icon": "fa-solid fa-bicycle"
     },
     {
       "name": "Travel",
-      "icon": "fa-solid fa-plane",
+      "icon": "fa-solid fa-plane"
     },
     {
       "name": "Maps",
-      "icon": "fa-solid fa-map",
+      "icon": "fa-solid fa-map"
     },
     {
       "name": "Public Transportation",
-      "icon": "fa-solid fa-subway",
+      "icon": "fa-solid fa-subway"
     },
     {
       "name": "Flags",
-      "icon": "fa-solid fa-flag",
+      "icon": "fa-solid fa-flag"
     }
   ]
 }
